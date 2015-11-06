@@ -1,4 +1,4 @@
-from tkinter import *
+from Tkinter import *
 import numpy as np
 
 class Data:
